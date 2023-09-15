@@ -1,0 +1,21 @@
+.h2{
+    color:black;
+    font-size: x-large;
+    font-style: normal;
+}
+.h1{
+    color:black;
+    font-size: xx-large;
+    font-weight: bold;
+}
+html{
+    background-color:pink;
+}
+.pa{
+    font-size: x-large;
+    background-color: aqua;
+    color: black;
+}
+.ul{
+    text-align: center;
+}
